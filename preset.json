@@ -8,10 +8,7 @@
     "@vue/cli-plugin-vuex": {},
     "@vue/cli-plugin-eslint": {
       "config": "standard",
-      "lintOn": [
-        "save",
-        "commit"
-      ]
+      "lintOn": ["save", "commit"]
     }
   },
   "vueVersion": "2",
