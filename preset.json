@@ -7,8 +7,11 @@
     },
     "@vue/cli-plugin-vuex": {},
     "@vue/cli-plugin-eslint": {
-      "config": "recommended",
-      "lintOn": ["save", "commit"]
+      "config": "standard",
+      "lintOn": [
+        "save",
+        "commit"
+      ]
     }
   },
   "vueVersion": "2",
