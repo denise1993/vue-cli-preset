@@ -5,10 +5,9 @@
     "@vue/cli-plugin-router": {
       "historyMode": false
     },
-    "@vue/cli-plugin-vuex": {
-      "extends": "plugin:vue/recommended"
-    },
+    "@vue/cli-plugin-vuex": {},
     "@vue/cli-plugin-eslint": {
+      "extends": "plugin:vue/recommended"
       "config": "standard",
       "lintOn": [
         "save",
